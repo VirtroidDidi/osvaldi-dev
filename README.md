@@ -55,9 +55,8 @@ Desenvolvi o AppHumor para ser nativo e robusto. Escolhi trabalhar com **MVVM** 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtroidDidi&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VirtroidDidi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtroidDidi&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VirtroidDidi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" />
 </div>
 
 <div align="center">
