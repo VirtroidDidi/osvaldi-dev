@@ -15,13 +15,10 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na PUCPR**.
+ Sou estudante de ADS (PUCPR) em transição de carreira para a área de Tecnologia após 7 anos de vivência no mercado de trabalho (gestão de processos e atendimento).
 
-Trago comigo uma bagagem de **7 anos de experiência no mercado de trabalho**, uma vivência que me deu a maturidade e a disciplina necessárias para enfrentar desafios reais. Hoje, utilizo toda essa experiência para conduzir minha **transição de carreira para a Tecnologia**.
-
-Não sou apenas um estudante de código, sou um profissional em evolução, focado em construir uma carreira sólida em desenvolvimento de software.
-
-🚀 **Minha Visão Panorâmica:** Minha base técnica foi construída no **Mobile Nativo (Android/Kotlin)**, prezando por arquitetura limpa. Meu roadmap estratégico para 2026 é expandir esses conhecimentos para o **Full Stack (JavaScript/TypeScript)**.
+💻 Foco Técnico: Desenvolvimento Mobile (Android Nativo, Kotlin, MVVM, Firebase) e estudos contínuos em Java/Lógica de Programação.
+🎯 Objetivo: Aplicar minha maturidade profissional e visão de negócios na resolução de problemas através de código. Busco minha primeira oportunidade como Estagiário ou Júnior.
 
 ---
 
