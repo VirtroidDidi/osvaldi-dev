@@ -42,7 +42,9 @@
 
 ### 🔮 Projetos em Destaque
 
-#### 📱 **[AppHumor]**
+#### 📱 **[AppHumor](https://github.com/VirtroidDidi/app-humor-android)**
+🔗 **Repositório:** (https://github.com/VirtroidDidi/app-humor-android)
+
 Este projeto é o reflexo prático dos meus estudos. Mais do que um aplicativo funcional, ele foi o laboratório onde consolidei meu entendimento sobre **Arquitetura de Software**.
 
 Desenvolvi o AppHumor para ser nativo e robusto. Escolhi trabalhar com **MVVM** para garantir que a interface e a lógica de negócios não se misturassem, facilitando a manutenção. A experiência do usuário foi priorizada com o uso de **XML Layouts** modernos e **ViewBinding**. Para dar vida aos dados, integrei tudo ao **Firebase**, criando uma aplicação conectada e real. É aqui que eu testo, erro e evoluo meu código.
